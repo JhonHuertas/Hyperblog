@@ -1,5 +1,6 @@
+primera modificacion.
 clase 8
 
-crea un repositorio de Git y haz tu primer commit
+crea un repositorio de Git y haz tu primer commit.
 
-archivo .txt creado
+archivo historia.txt creado
