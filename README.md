@@ -1,2 +1,2 @@
 # Hyperblog
-Blog creado durante curso de Git de Platzi
+Blog creado durante el curso de Git y Github de Platzi
