@@ -3,6 +3,8 @@ clase 8
 
 crea un repositorio de Git y haz tu primer commit.
 
+Master1 
+
 archivo historia.txt creado
 
 primer cambio despues de reset -hard
