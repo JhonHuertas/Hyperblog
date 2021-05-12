@@ -3,7 +3,7 @@ clase 8
 
 crea un repositorio de Git y haz tu primer commit.
 
-Master1 
+experimento 1
 
 Master2
 
