@@ -16,3 +16,5 @@ archivo historia.txt creado
 primer cambio despues de reset -hard
 
 commit desde visual studio code
+
+push desde VS Code
